@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+body {
+    background: #eec;
+}
+
+#content {
+    margin: auto;
+    margin-top: 40px;
+}
+
+#canvas {
+    border: 1px solid #cca;
+    margin: 5px;
+}
